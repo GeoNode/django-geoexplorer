@@ -4,3 +4,4 @@ recursive-include geoexplorer/static *.js
 recursive-include geoexplorer/static *.css
 recursive-include geoexplorer/static *.png
 recursive-include geoexplorer/static *.gif
+recursive-include geoexplorer/static *.jpg
